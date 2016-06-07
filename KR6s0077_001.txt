@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:43.564235
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 無上玉皇心印經
 #+PROPERTY: CBETA_ID F29n1099
 #+PROPERTY: ID KR6s0077
 #+PROPERTY: SOURCE Fangshan shijing Vol. 29, No. 1099
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0077_F_000-0385a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0077_F_001-0385a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-
-無上玉皇心印經
- 無上玉皇心印經¶
+無上玉皇心印經¶
 
 #+BEGIN_VERSE
 「　上藥三品
@@ -66,13 +64,13 @@
 　丹在身中
 　非白非青¶
 　誦之萬徧
-　妙理自明
+　妙理自明」
 #+END_VERSE
-」¶
+¶
 ¶
 無上玉皇心印經終¶
 
-傳經始流¶
+* 傳經始流¶
 
 昔有高道到處源於石城縣仙界鋪遇真仙¶
 傳授此經獲免厄難遂刊行焉嘗伏而誦¶
@@ -91,7 +89,7 @@
 大明宣德三年嵗次戊申四月吉日奉¶
 道信官向福善阮常就勝等稽首頓首百拜謹記¶
 
-同盟助貲¶
+* 同盟助貲¶
 
 奉國將軍都指揮同知武興¶
 
